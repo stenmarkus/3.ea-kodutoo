@@ -1,6 +1,9 @@
 # 3. kodutöö – Chrome extension
 
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
+Autor: Sten Markus Laht
+Kirjeldus: Extension abil on võimalik kiirelt kasutada rahvusvahelist filmi andmebaasi IMDb. Kasutaja saab sisestada otsingsõna ja valida, kas ta otsib filmi või telesarja,
+sarja episoodi nime või näitlejat. Kasutaja suunatakse edasi IMDb lehele, kus kuvatakse märksõna otsingutulemused. 
 
 **Töö on soovitatav teha kahekesi!**
 
